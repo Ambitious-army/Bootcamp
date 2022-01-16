@@ -1,0 +1,15 @@
+                                                                                      HTML Anchor And Image Tag (Chapter - 3)
+->> HTML Anchor Tag - 
+->The HTML anchor tag defines a hyperlink that links one page to another page.
+-> The href attribute is used to define the address of the file to be linked. In other words, it points out the destination page.
+-> The linked page will be displayed in the current browser window. To change this, you must specify another target for the link.
+-> The target attribute specifies where to open the linked document.                                                                                      
+
+->> HTML Images Tag - 
+-> HTML img tag is used to display image on the web page. HTML img tag is an empty tag that contains attributes only, closing tags are not used in HTML image element.
+
+      Src Attrribute - It is a necessary attribute that describes the source or path of the image.
+
+      alt Attrribute - The alt attribute defines an alternate text for the image, if it can't be displayed. 
+
+      
