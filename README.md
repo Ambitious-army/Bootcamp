@@ -1,7 +1,7 @@
 ### Hi there, We are AMBITIOUS ARMY 👋 
 
-### This repository is created to enhance coding skills and to provide valuable resources 
-### 📚 here we will be learning the basic and mostly used languages needed
+### This repository is created to enhance coding skills and to provide valuable resources..... 
+### 📚 Here we will be learning the basic and mostly used programming languages....
 
 ## We are a Coder, Programmer, Developer, and Teacher!!
 
