@@ -1,0 +1,82 @@
+                                                                                            Weak -2 (Time Table)
+MONDAY - (5:00PM to 6:30PM)
+-> PROGRAMMING BASICS --- 1) Programming And Coding Intro 
+                                                  2) CPU , RAM , ROM 
+                                                  3) Low - Level Langauge In Details 
+                                                  4) Language Translators (Compiler Vs Interpreter)
+                                                  5) Conversion Units 
+
+TUESDAY - (4:30PM to 6:30PM)                                                 
+-> COMPILER INSTALLATION - 1) Mingw - 64 Installation 
+                                                    2) Tokens , Comments , Keywords , Identifiers , Keywords , Semicolons ---> Basic Syntax (Theoratical)
+
+-> WEB DEVELOPMENT --------->  Basic Website Structure 
+
+-> Story                         ---------->  Chernobyl Incident (By Sujeet Bulbake)
+
+-> Facts                         ---------->  Sports fact (By Shivam ) (By Tanishqa)
+
+-> Homework                 ---------->   Install Compiler And Run First C Program    
+
+
+WEDNESDAY - (4:30PM to 6:30PM )
+-> C Programming          ----------->  C Programming Compilation Process (Theoratical + Practical)
+                                     ----------->  Preprocessor ,  Function , String Literals , Printf And Scanf ------> Basic Structure....(Practical + Theoratical)
+
+-> WEB DEVELOPMENT (Optional) ---------->  HTML Global Attribute  VS HTML Event Attribute
+                                                      ----------->  Introduction To CSS   
+
+-> Facts                                          ----------->  Health Fact (By Shruti) (By Yuvraj )
+
+-> Homework                                  ------------> C Basic Input Output Function Program (1 Time in Vs Code 1 Time In Copy )
+
+
+
+THURSDAY - (4:30PM to 6:30PM)
+-> C Programming                            -------------> Variables , Data Types , Escape Sequence , Format Specifiers 
+
+
+-> WEB DEVELOPMENT (Optional) ---------->   HTML <abbr> , <acronym> , <address> , <applet> , <area> 
+                                                       ---------->   CSS Syntax , CSS Selectors , Inlilne CSS , Internal CSS , External CSS , Comments
+
+-> Story                                          ----------->  Gaisal Accident ( BY Sujeet Bulbake )
+
+-> Homework                                   -----------> Q1. Print The Values Of Variables
+                                                       -----------> Q2. Store Value Of Variables 
+                                                       -----------> Q3. Swapping Values 
+
+FRIDAY - (4:30 PM to 6:30PM)      
+-> C Programming                           ------------->  C Operators (Most IMP)   - i) Arithmetic Operator 
+                                                                                                                      ii) Relational Operator 
+                                                                                                                     iii) Assignment Operator 
+                                                                                                                      iv) Logical Operator 
+                                                                                                                       v) Misc Operator 
+                                                                                                                      vi) Bitwise Operator
+                                                    -------------->  Operators Precedence And Associativity
+
+-> WEB DEVELOPMENT               --------------> HTML Favicon
+                                                    ---------------> CSS Revision 
+
+-> Homework                                --------------->    Revise All Operators Perfectly 
+
+SATURDAY - (4:30PM to 6:30PM)  
+C Programming                             ---------------> Conditional Operator , Boolean In C , Revision Of Operators 
+
+-> WEB DEVELOPMENT               ---------------> HTML <article> , <aside> , <audio> , <base> , <basefont> 
+                                                   ----------------> CSS Background , CSS Border - Border Radius , Border - Collapse , Border - Spacing
+
+-> Facts                                       ----------------> By Shailndra Parihar and Shubham Patidar 
+
+-> Homework                               -----------------> Q1. Make Program For Addition , Subtraction , Multiplication , Divison 
+                                                                             Q2. Calculate Simple Intrest 
+                                                                             Q3. Calculate Average Of 3 Integers 
+
+SUNDAY  - (2:00PM to 5:00PM)
+C Programming                         ----------------->   Exercises On Operators  ------>  1) Calculate Square 
+                                                                                                                               2) Calculate Area Of Perimeter Of Circle 
+                                                                                                                               3) Conversion Celsius Into Fahrenheit 
+                                                                                                                               4) Integers Swapping Values 
+TEST !!!!! 
+
+
+-> Story                                 ------------------> Area 51 (By Sujeet Bulbake )
