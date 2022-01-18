@@ -1,0 +1,60 @@
+C PROGRAMMING (STRUCTURE)
+-> They Consist Following Parts - 
+1) Preprocessor Commands.
+2) Functions. 
+3) Variables. 
+4) Statement & Expressions.
+5) Comments. 
+
+Flow Of C Program - 1.Preprocessing - Preprocessor is Not The Part Of The Compiler. But it's Seperate Part Of Compilation Process And Some Source Code fully Expanded.(Removes Comments)
+
+2.Compilation - The code which is expanded by the preprocessor is passed to the compiler. The compiler converts this code into assembly code. 
+
+3.Assembly - The assembly code is converted into object code by using an assembler.
+
+4.Linking - Linker Combine The Object Code Of Library Files With The Object Code Of Our Program And Convert It Into The .exe Executable File
+
+5.Loading - The loader will then load the executable file for the execution in the memory and the output is on The
+console screen.
+
+
+BASIC SYNTAX - 
+-> Tokens In C 
+   -> A C Program Has Various Token. 
+   -> Token Are Keywords , An Identifier ,  A Constant ,  A String Literal And Symbol.
+   Example - 
+      -> printf("Hello World\n");
+      This Statement Is Made By Various Tokens.  
+      Now Same Statment - 
+      -> printf
+         (
+         "Hello World!\n" 
+         )
+         ;
+         The are Divided Into Individual Tokens. 
+
+-> SEMICOLONS - 
+     -> The Semicolons Are Statement Terminator. 
+     -> Each Individual Statement Must Be Ended With Semicolons.
+     -> It Indicates The End Of One Logical Entity. 
+
+-> COMMENTS - 
+     -> Comments Are The Text Ignored By Your Compiler. 
+     -> You Can Create Notes Between Coding.
+     -> How We Can Write Comments - 
+         /* This is A Comment in C Programming */
+
+-> IDENTIFIERS - 
+    -> C Identifier is a name used to identify a Variable, Functions, or any other user - defined item.
+    -> C Does Not Allow Punctuation characters like @ , $.
+    -> C is Case Sensitive Programming Language. 
+    -> Sujeet and sujeet or Khushbu or khushbu are different Identifiers.
+
+-> KEYWORDS - 
+    -> Keywords is reserved word in c 
+    -> They Cannot be used as constant , Variable or any other Identifier names. 
+    -> List In whaatsaap
+
+
+
+             

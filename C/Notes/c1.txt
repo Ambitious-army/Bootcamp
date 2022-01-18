@@ -1,0 +1,36 @@
+                                     Chapter - 1   (Basics Of C Programming) 
+C PROGRAMMING LANGUAGE (INTRODUCTION)
+
+-> C Was Developed By Dennis M. Ritchie To Develop The Unix Operating System at AT&T Bell laboratories.
+-> C Was Originally First Implemented In 1972. 
+
+C PROGRAMMING - 
+1) Easy To Learn. 
+2) Structured Language. 
+3) It Produces Effiecent Programs. 
+4) It Can Be Compiled On a Variety Of Computer Platforms. 
+5) It Can Handle Low Level Activites. 
+
+FACTS ABOUT C - 
+1) C was Invented To Write An Operating System Called UNIX. 
+2) C is a Successor Of B Language Which Was Introduced Around 1970.
+3) The Language Was Formalized In 1988 By The American National Standard Institute (ANSI).
+
+
+IDE (Integrated Development Environment) - 
+-> IDE is A Better Alternative Of Notepad Which Gives Syntax Highlighting + Better Error Handling and More Feature.
+Examples - VS CODE , ECSLIPE, SUB - LIME TEXT EDITOR , BRACKETS AND MORE.
+
+->(IMP) -> The Files You Create With Your Editor(IDE) Are Called The Source Files and They Contain The Program 
+Source Codes. The Source Files of C Programs Are Typically Named With The Extension".c"
+
+C COMPILER - 
+-> The Comiler Compiles The Source Codes Into Final Executable Programs. 
+-> Source Code Compiles Into Machine Language So CPU Can Execute The Program As Per The Instruction.
+
+-> C is considered as Middle Level Language Because It Supports The Feature Of Both Low Level And High Level Languages.
+-> It Supports Pointer Arthmetic and c is also converted into assembly code so It Has Feature Of Low Level Language.
+-> It is Machine independent And Easily Developed By User. Which is The Feature Of High Level Lannguage.
+
+COMPUTER PROGRAMMING - 
+-> Steps Of Instruction Given To CPU So Thay Can Execute Program.
