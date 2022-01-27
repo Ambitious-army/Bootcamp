@@ -1,0 +1,65 @@
+                                                                                           C Programming Syllabus
+
+---> BASIC - 1) Compiler Installation And Compilation Process ....
+                    2) Basic Structure And Basic Syntax
+                    3) Keywords , Identifiers , Comments , Format Specifier , Escape Sequence , Tokens 
+
+---> STORAGES - 1) Variables ,  Constants , Data Types , 
+
+---> OPERATORS - 1) Arithmetic Operators , Assignment Operators , Bitwise Operators , Relational Operators , Logical Operators , Misc Operators
+
+---> CONTROL STATEMENTS - 1) C IF Statement , C - If - Else Statement , C - If - Else - If Ladder , 
+                                                   2) C Switch Statement 
+                                                   3) Loops - i) While Loop , ii) Do - While Loops , iii) For Loop , iv) Nested (while , do-while, for) Loop 
+                                                   4) Infinte Loop 
+                                                   5) Break Statement , Continue Statement And C Goto Statement
+                                                   6) Type Casting 
+                                                   7) C Control Statement test 
+
+---> FUNCTIONS - 1) Introduction To Functions (Declaration And Defination)
+                               2) Call : Call By refrence and Call By Value
+                               3) Functions Arguments (With or Without Arguments And Return Type )
+                               4) Storage Classes
+                               5) Functions Questions (Important)
+
+                               ----------- ADVANCE C PROGRAMMING ----------
+---> ARRAYS - 1) Introduction To Arrays 
+                       2) 1 - D Array  , Initialisation Of Arrays , Memory Representation , Accessing  Elements.
+                       3) 2-D Array , Initialisation Of 2-D Arrays , Memory Representation , Accessing  Elements.      
+                       4) Matrix Multiplication , Addition Of Matrix 
+                       5) Passing Array To Function 
+
+---> STRINGS - 1) Introduction To Strings 
+                         2) gets() Function and puts() Function 
+                         3) C Strings Function (string.h)   
+
+---> POINTERS - 1) Introduction To Pointers , Operators In Pointer , Pointer Assignment 
+                           2) Pointer To Pointer (Double Pointer)                               
+                           3) Pointer Arithmetic (Increament , Decreament , Addition , Subtraction , Comparison)
+                           4) Void Pointer , Null Pointer , Dangling Pointer , Derefrence Pointer , Wild Pointer 
+                           5) Function Pointer (With Or Without Arguments) , Callback Function , Application Of Function Pointer 
+                           
+---> RECURSION - 1) Introduction To Recursion 
+                              2) Direct And Indirect Recursion 
+                              3) Tail - Non - Tail Recursion 
+
+---> STRUCTURE AND UNION - 1) Introduction To Structure , Initialisation , Accessing  Of Structure Members
+                                                    2) Array Of Structure , Pointer To Structure , Nested Structure 
+                                                    3) Introduction To Unions 
+                                                    4) Structure Padding , Structure Packing
+
+---> FILE HANDLING - 1) Introduction To Files 
+                                     2) File Pointer (fopen())
+                                     3) File Handling Fucntions 
+
+---> MEMORY MANAGMENT - 1) Dynamic Memory Allocation (malloc , calloc , realloc , free())
+                                                2) Dynamic Vs Static Memory Allocation       
+
+---> Command Line Arguments .......
+
+                                          ----- Happy Ending -----                                                                                                                                                              
+
+
+
+                                                                                                 
+                                                   
