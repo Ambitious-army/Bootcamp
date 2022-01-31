@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <footer>
+        <h1 style="text-align: center;" class="head"><i>Registration Form</i></h1>
+        <form class="form">
+            <fieldset>
+                <legend>User Personal Information</legend>
+            
+            <label for="Name" id="name">Name</label>
+            <br>
+            <div>    
+                 <input type="text"  placeholder="Enter Your Name">
+            </div>
+            <br>
+            <label for="Email">Email</label>
+            <br>
+            <div>
+                <input type="email" placeholder="Enter Your Email">
+            </div>
+            <br>
+            <label for="Number">Phone Number</label>
+            <br>
+            <div>
+                <input type="number" placeholder="Enter Your Number">
+            </div>
+            <br>
+            <label for="Course">Course</label>
+            <div>
+                <select>
+                    <option value="Select your Course">Select Your Course</option>
+                    <option value="Btech">Btech</option>
+                    <option value="BCA">BCA</option>
+                </select>
+            </div>
+            <br>
+            <fieldset>
+                <legend>Gender</legend>
+            <div>
+                <input type="radio" value="male" name="gender">
+                <label for="Male">Male</label>
+                <br>
+                <input type="radio" value="female" name="gender">
+                <label for="Female">Female</label>
+                <br>
+                <input type="radio" value="others" name="gender">
+                <label for="Others">Others</label>
+            </div>
+            </fieldset>
+            <br>
+            <label for="DOB">Enter your DOB</label>
+            <div>
+                <input type="date" name="DOB">
+            </div>
+            <br>
+            <label for="url">Enter your WebSite URL</label>
+            <div>
+                <input type="url" name="url" placeholder="Your Website URL">
+            </div>
+            <br>
+            <label for="Your Thoughts">Write your thoughts</label>
+            <div>
+                <textarea name="Your Thoughts">Write Your Thoughts Here:</textarea>
+            </div>
+            <br>
+            <label for="checkbox" id="check">Check if you have filled above details</label>
+            <input type="checkbox" name="checkbox">
+            <br>
+            <br>
+            <div>
+                <button type="submit" value="submit" onclick="alert('Details sucessfully submitted')">Submit</button>
+            </div>
+        </fieldset>
+        </form>
+    </footer>
+    
+</body>
+</html>
