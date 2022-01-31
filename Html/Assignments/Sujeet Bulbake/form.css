@@ -1,0 +1,13 @@
+.form
+{
+    background-color: lightblue;
+    font-family: cursive;
+    font-style: oblique;
+    /* text-align: center; */
+    text-decoration: lightcoral;
+    font-weight: 900;
+    font-size: smaller;
+    text-shadow: rgb(32, 199, 32);
+    text-rendering: optimizeSpeed;
+
+}
