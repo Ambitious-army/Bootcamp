@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Registration Form</title>
+</head>
+<body style="background-color: aqua;">
+     <h2 style="text-align: center;"><u>REGISTRATION FORM</u></h2>
+     <form action="#">
+         <fieldset>
+             <legend>User Personal Information</legend>
+             <div>
+                 <label for="textname">Full Name:</label>
+                 <input type="text" name="name" id="textname"><br><br>
+                </div>
+                <div>
+                    <label for="myemail">E-Mail:</label>
+                    <input type="email" name="email" id="myemail"><br><br>
+                </div>
+                <div>
+                    <label for="mypassword">Password:</label>
+                    <input type="password" name="password" id="mypassword"><br><br>
+                </div>
+                <div>
+                    <label for="mypass">Confirm Password:</label>
+                    <input type="password" name="confirmpass" id="mypass"><br><br>
+                </div>
+                <div>
+                    <label for="yourgender">Gender:</label>
+                    Male <input type="radio" name="gender" id="yourgender"> Female <input type="radio" name="gender" id="yourgender"> Other<input type="radio" name="gender" id="yourgender"> <br><br>
+                	<label for="url">Enter Your City URL:</label>
+           <input type="url" name="url" id="url"><br><br>
+ 	 </div>
+                <div>
+                    <label for="checbox"> Computer Languages known:</label> 
+                    1.Python <input type="checkbox" name="checkbox" id="checkbox">         
+                    2.Javascript <input type="checkbox" name="checkbox" id="checkbox">         
+                    3. HTML <input type="checkbox" name="checkbox" id="checkbox">  
+                    4.C++ <input type="checkbox" name="checkbox" id="checkbox"><br></br>  
+                </div> 
+                <div>
+                    <label for="mydate">DOB:</label>
+                    <input type="date" name="mydate" id="mydate"><br><br> 
+ 	<label for="myelge">Are You Eligible?</label>
+           <input type="checkbox" name="myelge" id="myelge" value="Yes"><br><br>
+                </div>
+                <div>
+                    <label for="phoneNumber">Contact Number:</label>
+                    <input type="number" name="number" id="phoneNumber"><br><br>
+                </div>
+                <div>
+                    <label for="select">Select</label>
+                    <select id="select" name="">
+                        <option>VS code </option>
+                        <option>Notepad</option>
+                        <option>Sublime text</option>
+                        <option>Pycharm</option>
+                    </select>
+                </div>
+ 	<input type="button" value="Click Me" onclick="alert('This site contains your personal information')"><br><br>
+                <label for="textarea">Write Your Qualififications:<br></label>
+                <textarea name="text" id="textarea"></textarea><br><br>
+                <input type="submit" value="Submit - Now">
+                <input type="reset" value="Reset Now"> 
+                    
+            </fieldset>
+            </form>
+</body>
+</html>
